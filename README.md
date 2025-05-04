@@ -52,4 +52,3 @@ Retail businesses depend heavily on accurate forecasting. Through careful prepro
 
 ## Created by
 Sriman Potthula  
-Data Analyst in training | Python | EDA | Feature Engineering | Modeling
